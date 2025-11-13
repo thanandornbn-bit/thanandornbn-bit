@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Thanandorn Boonchot!
 
-<div align="center">
+<div align="center" object-fit="cover" border-radius="50%" border="3px solid#333">
   <img src="Photo.jpg" alt="Thanandorn Boonchot" width="200" style="border-radius: 50%;" />
 </div>
 
