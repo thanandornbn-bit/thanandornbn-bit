@@ -69,10 +69,5 @@
 
 * **Email:** [thanandornbc@gmail.com](mailto:thanandornbc@gmail.com) 
 * **GitHub:** [github.com/thanandornbn-bit](https://github.com/thanandornbn-bit) 
-* **LinkedIn:** [Your LinkedIn Profile Link]
 * **Phone:** 063-580-3516
 
----
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
-</div>
