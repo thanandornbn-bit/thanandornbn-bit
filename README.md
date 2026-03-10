@@ -1,4 +1,4 @@
-# 🚀 Thanandorn Boonchot (Tan)
+# 🚀 Thanandorn Boonchot (Boat)
 ### Frontend & Full-Stack Developer 
 
 <div align="center" object-fit="cover" border-radius="50%" border="3px">
