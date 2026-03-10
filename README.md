@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Thanandorn Boonchot!
+# 🚀 Thanandorn Boonchot (Tan)
+### Frontend & Full-Stack Developer 
 
 <div align="center" object-fit="cover" border-radius="50%" border="3px">
   <img src="Photo.jpg" alt="Thanandorn Boonchot" width="200" style="border-radius: 50%;" />
@@ -12,116 +13,66 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+นักศึกษาพัฒนา Web จบใหม่ที่มีประสบการณ์เข้มข้นจากการฝึกงานด้าน **Frontend และ Full-Stack Development**  ผมเชี่ยวชาญการสร้าง Web Application ด้วยเทคโนโลยีสมัยใหม่ เน้นการเขียนโค้ดที่มีโครงสร้างดี (Clean Code) และรองรับการใช้งานทุกหน้าจอ (Responsive Design) จนสามารถนำระบบขึ้นใช้งานจริง (Production) ได้ 
 
-> *"I'm an undergraduate student passionate about technology and software development. With a foundation in both backend and frontend, I enjoy building efficient, scalable, and user-friendly applications. I’m eager to keep learning new tools and frameworks to grow as a full-stack developer and create solutions that make a real impact"*
-
-🎓 Status: College student (undergraduate)
-
-🤝 Traits: Curious, creative thinker, Friendly , good communicator, adaptable
-
-🚀 Aspiring: Software Engineer / Full-Stack Developer 
+* 🎓 **การศึกษา:** วิทยาศาสตรบัณฑิต (เทคโนโลยีสารสนเทศ) มหาวิทยาลัยแม่โจ้ 
+* 📍 **ที่อยู่:** P-Place อ.แม่ริม จ.เชียงใหม่ 
+* 💡 **ความสนใจ:** การสร้างสรรค์ UI/UX ที่ใช้งานง่าย และการออกแบบระบบ Backend ที่มีประสิทธิภาพ
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠 Tech Stack
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Backend**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-
-## 🌱 Currently Learning
-
-<div align="center" fornt-color="white">
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Advanced Java
-      Spring Security
-      Microservices
-      JPA/Hibernate
-    Modern Frontend
-      React Hooks
-      State Management
-      Component Libraries
-    Database Design
-      Optimization
-      Indexing
-      Scalability
-    DevOps
-      Docker
-      CI/CD
-      Cloud Services
-```
-
-</div>
-
-- 🔥 **Advanced Java & Spring Ecosystem** - Diving deeper into enterprise-level development
-- ⚛️ **Modern Frontend with React** - Building responsive and interactive user interfaces  
-- 🗄️ **Scalable Database Design** - Learning optimization and best practices
-- ☁️ **Cloud Technologies** - Exploring deployment and scalability solutions
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Work Experience
 
-### 🏨 Thanachok Dormitory Booking and Management Web Application
-**A comprehensive web-based solution for dormitory management and booking system**
+### **Frontend / Full-Stack Developer Intern**
+**Lucas Strategy** | *2025 - 2026* 
 
-**Key Features:** 
-- Online dormitory booking system
-- Student and admin management panels  
-- Room availability tracking
-- Booking history and reports
-- User-friendly interface design
-
-**Technologies Used:** Java, Spring Framework, Web Development Technologies
-
-*This project demonstrates my ability to create full-stack applications that solve real-world problems in accommodation management.*
+* **Pokémon E-Commerce:** พัฒนาเว็บขายการ์ด Pokémon โดยเชื่อมต่อ RESTful API จาก The Pokémon Company 
+* **Lucas Work (Internal Tool):** พัฒนาระบบบันทึกเวลาเข้า-ออกงาน จัดการสิทธิ์ Admin/User และดูแลทั้งส่วน Frontend/Backend 
+* **LittleRose Landing Page:** ปรับปรุง UI Components ให้ทันสมัย และสร้าง Mock Data เพื่อทดสอบการใช้งาน 
+* **Quality Assurance:** ทำ Manual Testing และจัดทำเอกสาร Test Case พร้อมรายงาน Bug ในโครงการ Test SRTA 
 
 ---
 
-## 📱 Connect With Me
+## 🌟 Projects & Activities
 
+* **Thanachok Dormitory Management:** โปรเจกต์ Full-stack (Java Spring) สำหรับบริหารจัดการหอพักครบวงจร ทั้งระบบจองและจัดการสถานะห้องพัก
+* **IoT Workshop Mentor:** เป็นวิทยากรสอนการเขียนโปรแกรม micro:bit และพื้นฐาน IoT ให้กับนักเรียนโรงเรียนส่วนบุญโญปถัมภ์ จ.ลำพูน 
+
+---
+
+## 📫 Contact Me
+
+* **Email:** [thanandornbc@gmail.com](mailto:thanandornbc@gmail.com) 
+* **GitHub:** [github.com/thanandornbn-bit](https://github.com/thanandornbn-bit) 
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Phone:** 063-580-3516
+
+---
 <div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thanandorn.boonchot.2024/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.b06_7/)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/btzaza143)
-[![Phone](https://img.shields.io/badge/Phone-FF6B6B?style=for-the-badge&logo=phone&logoColor=white)](tel:0635803516)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
-  
-  **Thanks for visiting my profile!**  
-  *Feel free to connect, collaborate, or just say hi! 🚀*
-  
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </div>
